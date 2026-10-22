@@ -1,0 +1,18 @@
+[
+  { "id": "iris", "name": "Ирис", "seed": "#b68aff", "background": "#17121f", "surface": "#211a2d", "dock": "#30233f" },
+  { "id": "lime", "name": "Лайм", "seed": "#c4d96b", "background": "#14170d", "surface": "#1d2411", "dock": "#2a331a" },
+  { "id": "rose", "name": "Роза", "seed": "#f2a7c3", "background": "#171016", "surface": "#1f1820", "dock": "#2f202d" },
+  { "id": "ice", "name": "Лёд", "seed": "#8cd7ed", "background": "#0d151b", "surface": "#14232c", "dock": "#1a303b" },
+  { "id": "graphite", "name": "Графит", "seed": "#bcc4cf", "background": "#121417", "surface": "#1e2228", "dock": "#2a3038" },
+  { "id": "obsidian", "name": "Обсидиан", "seed": "#dfccff", "background": "#070609", "surface": "#101014", "dock": "#1b1723" },
+  { "id": "indigo", "name": "Индиго", "seed": "#aeb8ff", "background": "#101226", "surface": "#1b1e36", "dock": "#282b48" },
+  { "id": "matcha", "name": "Матча", "seed": "#b5cc9a", "background": "#131810", "surface": "#1e281b", "dock": "#2d3927" },
+  { "id": "mint", "name": "Мята", "seed": "#8fdbc2", "background": "#0d1815", "surface": "#152621", "dock": "#1a3730" },
+  { "id": "lagoon", "name": "Лагуна", "seed": "#80cfd8", "background": "#101a1c", "surface": "#17282b", "dock": "#1d373b" },
+  { "id": "amber", "name": "Янтарь", "seed": "#efc377", "background": "#1b150c", "surface": "#2a2216", "dock": "#332a1b" },
+  { "id": "peach", "name": "Персик", "seed": "#ffbc9e", "background": "#1d1511", "surface": "#2d211b", "dock": "#3c2b23" },
+  { "id": "terracotta", "name": "Терракота", "seed": "#e5aa94", "background": "#1d1412", "surface": "#2e211d", "dock": "#3d2a24" },
+  { "id": "cocoa", "name": "Какао", "seed": "#d5b49b", "background": "#191411", "surface": "#28211c", "dock": "#392d25" },
+  { "id": "cherry", "name": "Вишня", "seed": "#ffadb4", "background": "#191014", "surface": "#1f171d", "dock": "#341f29" },
+  { "id": "north", "name": "Север", "seed": "#abcde0", "background": "#12171b", "surface": "#1c262e", "dock": "#26353f" }
+]
